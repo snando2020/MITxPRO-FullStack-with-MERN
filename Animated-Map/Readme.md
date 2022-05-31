@@ -42,7 +42,7 @@ No Requirements
 
 ```bash
 # Clone this project
-$ git clone https://github.com/snando2020/Real-Time-Bus-Tracking.git
+https://github.com/snando2020/MITxPRO-FullStack-with-MERN/tree/main/Animated-Map
 ```
 
 ## :joystick:	How to Play ##
