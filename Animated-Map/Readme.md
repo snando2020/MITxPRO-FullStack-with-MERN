@@ -5,38 +5,36 @@
 # <h1 align="center">The Real Time Bus Tracker</h1>
 
 
-## : Description ##
+## Description ##
 
-This is a project from week 9 of the MIT XPRO "Full-Stack with MERN" certification. Using the MBTA API and the Google Maps API, it shows in real time the location of the MBTA buses.
+This is a project the Tracking Bus from MIT to Harvard use mapbox
 
-## :Improvements ##
+## Improvements ##
 
 These are the list of currect improvements:
 
-- :diamonds: Changes styles street.	
+- Changes styles street.	
 
-## :Technologies ##
+## Technologies ##
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://www.w3schools.com/js/)
 
-## :white_check_mark: Requirements ##
+## white_check_mark: Requirements ##
 
 No Requirements
 
-## :Installation ##
+## Installation ##
 
-```bash
-# Clone this project
 https://github.com/snando2020/MITxPRO-FullStack-with-MERN/tree/main/Animated-Map
-```
 
-## :	How to Play ##
+
+## How to Play ##
 
 - You can see how changes the location of buses.
 
-## :	 License ##
+## License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
