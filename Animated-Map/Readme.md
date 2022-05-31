@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="screenshot_Real_Time_Bus.png"  width="300">   
+  <img src="tracker.jpg">   
 </div>
 
 # <h1 align="center">The Real Time Bus Tracker</h1>
@@ -64,7 +64,7 @@ Open index.html and you can see the map with the location of buses from MBTA
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/arturomsoberanes" target="_blank">Arturo Soberanes</a>
+Made with :heart: by <a href="https://github.com/arturomsoberanes" target="_blank">Saul Vega</a>
 
 &#xa0;
 
